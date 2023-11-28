@@ -1,9 +1,9 @@
 ### Hi , Welcome to my Profile 👋
 
-- Python Programmer.
+- C++ Programmer.
 - I like doing Competitive Programming.
 - I love learning new skills.
-- Also love javascript and aspire to become a full stack dev some day.
+- Also love app dev. and aspire to become a full stack app dev some day.
 - Done Projects related to Python 
 - Fun fact *I think I am Funny*
 <img src = "https://questfox.files.wordpress.com/2020/07/taphere.gif?w=200"  align = "right"> </img>
